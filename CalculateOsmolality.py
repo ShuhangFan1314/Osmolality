@@ -3,7 +3,7 @@ import pandas as pd
 
 # 设置页面配置
 st.set_page_config(
-    page_title="渗透压计算器",
+    page_title="渗透压计算器V1.0",
     page_icon="🧪",
     layout="centered",
 )
