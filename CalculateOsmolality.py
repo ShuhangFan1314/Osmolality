@@ -25,7 +25,7 @@ def create_database():
     # 辅料数据库
     excipient_data = {
         "Excipient": ["Sucrose", "Sodium Chloride", "Mannitol", "Trehalose", "Arginine Hydrochloride"],
-        "Osmolality (mOsmol/kg/mg/mL)": [3.1, 31.3, 5.8, 2.9, 8.1]
+        "Osmolality (mOsmol/kg/mg/mL)": [3.1, 31.3, 5.8, 2.9, 8.4]
     }
     excipient_df = pd.DataFrame(excipient_data)
 
